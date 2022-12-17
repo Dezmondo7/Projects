@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-  <html>
-    <body>
-      <title>Mens Fashion Home</title>
-        <header>
-          <h3>Menz Style</h3>
-          <img src="https://images.app.goo.gl/zyooSh1LtJxxocfeA">
-        </header>
-      </body>
-    </html>  
-        
+  <Head> 
+    <link rel="stylesheet" href="style.css">
+  </Head>
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#Classic">Classic</a></li>
+        <li><a href="#New">New</a></li>
+        <li><a href="#Legends">Legends</a></li>
+      </ul>
+    </nav>
+  </body>
+  
